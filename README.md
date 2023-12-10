@@ -1,0 +1,2 @@
+# Patient-Profile-Based-Medication-Recommendation-System-Decision-Tree-Analysis
+This project involves a drug recommendation system based on patients' demographic characteristics. The dataset includes characteristics such as age, gender, blood pressure (BP), cholesterol level and sodium-potassium ratio. The project involves building a decision tree using `DecisionTreeClassifier` and making drug recommendations using this tree.
